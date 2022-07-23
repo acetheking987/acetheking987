@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @acetheking987
 - 👀 I’m interested in python and web development
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on learning javascript and python
 - 📫 How to reach me at acetheking987@gmail.com (i don't tend to read my emails)
 
