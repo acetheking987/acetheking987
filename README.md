@@ -4,7 +4,5 @@
 - 💞️ I’m looking to collaborate on learning javascript and python
 - 📫 How to reach me at acetheking987@gmail.com (i don't tend to read my emails)
 
-<!---
-acetheking987/acetheking987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=acetheking987&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acetheking987&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
