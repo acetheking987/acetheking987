@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate on learning javascript and python
 - 📫 How to reach me at acetheking987@gmail.com (i don't tend to read my emails)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=acetheking987&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acetheking987&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=acetheking987&theme=transparent&hide_border=true&title_color=5cdd8b&text_color=b1b8c0&icon_color=5cdd8b&text_bold=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=acetheking987&theme=transparent&hide_border=true&title_color=5cdd8b&text_color=b1b8c0&icon_color=5cdd8b&text_bold=true)
